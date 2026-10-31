@@ -1,0 +1,11 @@
+# Local test evidence includes machine-specific paths and desktop file details.
+/test-results/
+/TEST-RESULTS.txt
+
+# Local editor and temporary files.
+/.vs/
+/.vscode/
+*.user
+*.suo
+*.tmp
+*.log
